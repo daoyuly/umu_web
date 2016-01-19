@@ -1,0 +1,15 @@
+{
+   "app": {
+      "launch": {
+         "web_url": "http://www.umu.com/"
+      }
+   },
+   "default_locale": "en",
+   "description": "UMU com",
+   "icons": {
+      "128": "icon.png"
+   },
+   "manifest_version": 2,
+   "name": "UMU",
+   "version": "0.0.0.1"
+}
